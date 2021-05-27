@@ -34,8 +34,11 @@
 <br  />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. 
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
+- ðŸ”­🌱 I’m a Full stack developer with a masters degree in Computer Application. 
+-	As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+-   👨🏻‍💻 I’m currently working on something cool;
+-   🚀  I’m currently learning Data Structures and Algorithms on  [leetcode]
+-  Ask me about anything, I am happy to help;
 <br/>
 
 ### Languages and Tools:
@@ -78,10 +81,10 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=adwaitya&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=adwaitya&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=adwaitya&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=adwaitya&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=adwaitya&hide=php&theme=tokyonight" />
 </a>
 </div>
