@@ -85,19 +85,3 @@
 
 <img  align="left"  alt="Terminal"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  />
 <br  />
-
-
-## :trophy: My Github Stats:
-
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=adwaitya&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=adwaitya&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=adwaitya&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=adwaitya&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=adwaitya&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=adwaitya&hide=php&theme=tokyonight" />
-</a>
-</div>
