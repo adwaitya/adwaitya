@@ -2,7 +2,7 @@
   # <div align="center">👋 Welcome to My GitHub Profile! 🚀</div>
 
 <p align="center">
-  <img src="./images/me.jpg" alt="Profile Banner">
+  <!-- <img src="./images/me.jpg" alt="Profile Banner"> -->
 </p>
 
 
