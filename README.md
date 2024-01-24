@@ -1,7 +1,18 @@
 
-  
+  # <div align="center">👋 Welcome to My GitHub Profile! 🚀</div>
 
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I 'm [Adwaitya Sadhukhan!](https://www.linkedin.com/in/adwaitya-sadhukhan-6a213988)
+<p align="center">
+  <img src="./images/me.jpg" alt="Profile Banner">
+</p>
+
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/adwaitya?style=social" style="padding:5px">
+<img src="https://img.shields.io/github/stars/adwaitya?style=social" style="padding:5px">
+</div>
+
+<div align="center">Hello there! Welcome to my GitHub profile. I'm <b>Adwaitya Sadhukhan</b>. Here, you'll find a collection of my projects, contributions, and explorations. Feel free to explore and contribute. 🔍💡</div>
+
 
   
 
@@ -34,8 +45,10 @@
 <br  />
 
 ### About Me 🚀
-- ðŸ”­🌱 I’m a Full stack developer with a masters degree in Computer Application. 
--	As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+- I am a FullStack Developer with a passion for web development. I love to create things that makes people's life easier. Whether it is a web application or a command line tool, I love to create them.
+- MCA
+- 9+ years of experience in Web Development
+- Currently working as Senior Developer in Rebaca Technologies
 -   👨🏻‍💻 I’m currently working on something cool;
 -   🚀  I’m currently learning Data Structures and Algorithms on  [leetcode]
 -  Ask me about anything, I am happy to help;
