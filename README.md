@@ -1,9 +1,10 @@
 
   # <div align="center">👋 Welcome to My GitHub Profile! 🚀</div>
 
-<p align="center">
+<div align="center">
   <!-- <img src="./images/me.jpg" alt="Profile Banner"> -->
-</p>
+  <img  alt="GIF" src="./images/code.gif" width="500" height="320" />
+</div>
 
 
 <div align="center">
